@@ -1,0 +1,10 @@
+* zenekindarl
+
+A fast template engine for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/KeenS/zenekindarl.git   |
+| commit  | ea8cfa8  |
+| systems | zenekindarl |
+|---------+-------------------------------------------|
+
